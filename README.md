@@ -1,4 +1,4 @@
-#This is the README file for running setup.sh and opening the corresponding Jupyter notebook file#
+# This is the README file for running setup.sh and opening the corresponding Jupyter notebook file
 
 --THE 'TOO LONG DIDN'T READ' INSTRUCTIONS--
 1) In the terminal, type 'sh setup.sh'
