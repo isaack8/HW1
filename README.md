@@ -26,4 +26,3 @@ files: *setup.sh*, *HW1_IsaacK.ipynb*, *HCEPDB_moldata.csv*, 'HCEPDB', and this 
 2. Your browser should open, and since the *.csv* file unpacked above is in the same directory, the notebook 
 should be able to be run immediately
 
-
